@@ -1,0 +1,10 @@
+c:\users\avi\documents\visual studio 2010\Projects\Vehical Insuarance Manegement System\Vehical Insuarance Manegement System\bin\Debug\Vehical Insuarance Manegement System.exe
+c:\users\avi\documents\visual studio 2010\Projects\Vehical Insuarance Manegement System\Vehical Insuarance Manegement System\bin\Debug\Vehical Insuarance Manegement System.pdb
+c:\users\avi\documents\visual studio 2010\Projects\Vehical Insuarance Manegement System\Vehical Insuarance Manegement System\obj\x86\Debug\Vehical_Insuarance_Manegement_System.start.resources
+c:\users\avi\documents\visual studio 2010\Projects\Vehical Insuarance Manegement System\Vehical Insuarance Manegement System\obj\x86\Debug\Vehical_Insuarance_Manegement_System.Properties.Resources.resources
+c:\users\avi\documents\visual studio 2010\Projects\Vehical Insuarance Manegement System\Vehical Insuarance Manegement System\obj\x86\Debug\Vehical Insuarance Manegement System.csproj.GenerateResource.Cache
+c:\users\avi\documents\visual studio 2010\Projects\Vehical Insuarance Manegement System\Vehical Insuarance Manegement System\obj\x86\Debug\Vehical Insuarance Manegement System.exe
+c:\users\avi\documents\visual studio 2010\Projects\Vehical Insuarance Manegement System\Vehical Insuarance Manegement System\obj\x86\Debug\Vehical Insuarance Manegement System.pdb
+C:\Users\Avi\documents\visual studio 2010\Projects\Vehical Insuarance Manegement System\Vehical Insuarance Manegement System\obj\x86\Debug\Vehical Insuarance Manegement System.csprojResolveAssemblyReference.cache
+C:\Users\Avi\documents\visual studio 2010\Projects\Vehical Insuarance Manegement System\Vehical Insuarance Manegement System\obj\x86\Debug\Vehical_Insuarance_Manegement_System.Start2.resources
+C:\Users\Avi\documents\visual studio 2010\Projects\Vehical Insuarance Manegement System\Vehical Insuarance Manegement System\obj\x86\Debug\Vehical_Insuarance_Manegement_System.Login1.resources
